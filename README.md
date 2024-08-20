@@ -34,7 +34,6 @@ MC	    0.92  	0.95	    0.94    	180
 OC	    0.98  	0.93	    0.95    	108
 OLP	    0.96  	0.95	    0.96    	180
 OT	    0.97  	0.97	    0.97    	131
-![image](https://github.com/user-attachments/assets/caf24647-b68a-45f6-b16c-6cde4e1cfe5a)
 
 Overall accuracy: 96%
 Macro average: Precision: 0.96, Recall: 0.96, F1-Score: 0.96
